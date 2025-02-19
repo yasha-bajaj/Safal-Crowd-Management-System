@@ -1,6 +1,5 @@
-<img src="https://github.com/user-attachments/assets/a4384415-4070-4514-90d2-baa4ffef2ba7" width="100"/> 
+<img src="https://github.com/user-attachments/assets/efcff0fb-d262-401f-acff-30cd528a303d" width="100"/> 
 Safal - AI-Powered Crowd Management System
-
 
 ## 🌟 Project Overview
 
@@ -53,7 +52,10 @@ Safal is an advanced **AI-Cloud-IoT Crowd Management System** designed to analyz
 - **IoT Integration** - For real-time alerts and monitoring.
 
 
-https://github.com/user-attachments/assets/83553522-9736-4597-a777-1ab732f33283
+
+https://github.com/user-attachments/assets/29df3271-8e67-4373-8f2f-79fbe040a2da
+
+
 
 
 ---

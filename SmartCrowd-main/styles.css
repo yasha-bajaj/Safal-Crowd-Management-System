@@ -1,0 +1,44 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+button {
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555555;
+}
+
+.container {
+    padding: 20px;
+}
+
+/* Add styles for images and graphics */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.graphic {
+    background-color: #1f1f1f;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: center;
+}

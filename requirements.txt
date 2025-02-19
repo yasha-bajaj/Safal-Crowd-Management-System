@@ -1,0 +1,5 @@
+ultralytics
+flask
+customtkinter
+speech_recognition
+matplotlib
